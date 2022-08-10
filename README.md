@@ -1,3 +1,6 @@
+# [Ideabox](https://scottdgaines.github.io/ideabox/)
+Mod 1, Project 4 (Group)
+
 ## Overview
 
 Ideabox is an app designed to save your ideas in an easily accessible format. Users are able to create new ideas by saving their custom ideas into separate cards which can then either be favorited or deleted.
